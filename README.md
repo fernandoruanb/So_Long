@@ -156,6 +156,21 @@ This gave the project a simple but coherent visual identity.
 
 ---
 
+## Controls
+
+<p align="center">
+  ⬆️ / <b>W</b> = Move Up <br>
+  ⬇️ / <b>S</b> = Move Down <br>
+  ⬅️ / <b>A</b> = Move Left <br>
+  ➡️ / <b>D</b> = Move Right
+</p>
+
+<p align="center">
+  The arrow keys follow their natural directions, and <b>W, A, S, D</b> also work normally for movement.
+</p>
+
+---
+
 ## Path Validation with Flood Fill
 
 One of the most important parts of the project is checking whether the map is actually playable.
