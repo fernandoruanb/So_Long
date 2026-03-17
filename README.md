@@ -144,13 +144,12 @@ Each map element has its own image:
 All of the images in my project were created **pixel by pixel**, using tools such as **Piskel**.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e7/50/86/e750869f635c22314b470aafd09f28e3.gif" alt="Enderman GIF" width="420">
+  <img src="https://i.pinimg.com/originals/e7/50/86/e750869f635c22314b470aafd09f28e3.gif" alt="Enderman GIF" width="220">
 </p>
 
 <p align="center">
-  <em>Enderman visual inspiration used for the theme of this project.</em><br>
-  <sub>Source: Pinterest CDN link provided by the author of this repository. Original creator not yet identified.</sub>
-</p>
+  <sub>Original creator not yet identified.</sub>
+</p><br\>
 
 For the game theme, I chose **Enderman from Minecraft**.
 
