@@ -127,6 +127,10 @@ This creates a very simple loop, but one that already introduces important ideas
 
 ---
 
+<html>
+<img src="./imgs/so_long_1.png" alt="my so_long"\>
+</html>
+
 ## Rendering and Assets
 
 Each map element has its own image:
