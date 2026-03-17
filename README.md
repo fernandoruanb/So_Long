@@ -4,8 +4,7 @@
 </p>
 
 <h1 align="center">
-  <br>
-  <a href="https://github.com/SEU_USUARIO/so_long">
+  <a href="https://github.com/fernandoruanb/So_Long">
     <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/so_longe.png" alt="so_long badge" width="200">
   </a>
   <br>
